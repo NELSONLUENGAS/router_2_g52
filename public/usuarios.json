@@ -1,0 +1,59 @@
+{
+	"usuarios": [
+		{
+			"id": 1,
+			"nombre": "Juan Perez",
+			"nombre_usuario": "juanperez",
+			"edad": 25,
+			"ciudad": "Buenos Aires",
+			"pais": "Argentina",
+			"email": "juanperez@example.com",
+			"avatar": "https://yt3.googleusercontent.com/vRF8BHREiJ3Y16AbMxEi_oEuoQlnNNqGpgULuZ6zrWSAi24HcxX3Vko42RN8ToctH-G0qlWd=s900-c-k-c0x00ffffff-no-rj",
+			"descripcion_corta": "¡Hola! Soy Juan, un apasionado de la tecnología y la música."
+		},
+		{
+			"id": 2,
+			"nombre": "Maria Rodriguez",
+			"nombre_usuario": "mariarodriguez",
+			"edad": 30,
+			"ciudad": "Madrid",
+			"pais": "España",
+			"email": "mariarodriguez@example.com",
+			"avatar": "https://yt3.googleusercontent.com/vRF8BHREiJ3Y16AbMxEi_oEuoQlnNNqGpgULuZ6zrWSAi24HcxX3Vko42RN8ToctH-G0qlWd=s900-c-k-c0x00ffffff-no-rj",
+			"descripcion_corta": "¡Hola! Soy Maria, me encanta viajar y conocer nuevas culturas."
+		},
+		{
+			"id": 3,
+			"nombre": "Pedro Gomez",
+			"nombre_usuario": "pedrogomez",
+			"edad": 28,
+			"ciudad": "Mexico City",
+			"pais": "Mexico",
+			"email": "pedrogomez@example.com",
+			"avatar": "https://yt3.googleusercontent.com/vRF8BHREiJ3Y16AbMxEi_oEuoQlnNNqGpgULuZ6zrWSAi24HcxX3Vko42RN8ToctH-G0qlWd=s900-c-k-c0x00ffffff-no-rj",
+			"descripcion_corta": "¡Hola! Soy Pedro, un amante de la naturaleza y los deportes."
+		},
+		{
+			"id": 4,
+			"nombre": "Ana Martinez",
+			"nombre_usuario": "anamartinez",
+			"edad": 22,
+			"ciudad": "Santiago",
+			"pais": "Chile",
+			"email": "anamartinez@example.com",
+			"avatar": "https://yt3.googleusercontent.com/vRF8BHREiJ3Y16AbMxEi_oEuoQlnNNqGpgULuZ6zrWSAi24HcxX3Vko42RN8ToctH-G0qlWd=s900-c-k-c0x00ffffff-no-rj",
+			"descripcion_corta": "¡Hola! Soy Ana, me apasiona la cocina y la fotografía."
+		},
+		{
+			"id": 5,
+			"nombre": "Luisa Fernandez",
+			"nombre_usuario": "luisafernandez",
+			"edad": 27,
+			"ciudad": "Bogota",
+			"pais": "Colombia",
+			"email": "luisafernandez@example.com",
+			"avatar": "https://yt3.googleusercontent.com/vRF8BHREiJ3Y16AbMxEi_oEuoQlnNNqGpgULuZ6zrWSAi24HcxX3Vko42RN8ToctH-G0qlWd=s900-c-k-c0x00ffffff-no-rj",
+			"descripcion_corta": "¡Hola! Soy Luisa, me encanta leer y escribir."
+		}
+	]
+}
